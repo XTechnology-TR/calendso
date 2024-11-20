@@ -95,7 +95,7 @@
     "superjson": "1.8.0",
     "tslog": "^3.2.1",
     "uuid": "^8.3.2",
-    "zod": "^3.8.2"
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@microsoft/microsoft-graph-types-beta": "0.15.0-preview",
